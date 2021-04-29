@@ -6,3 +6,27 @@
   - E-commerce Apps
   - Cloud based SaaS Apps
   - General Serverless APIs
+
+- Using
+
+  - React
+  - Gatsby.js
+  - Redux
+  - GraphQL
+  - RESTful OpenAPI
+  - Serverless
+  - AWS Lambda Functions
+  - AWS Lambda Containers
+  - AWS Aruora Serverless
+  - AWS Neptune
+  - AWS EventBridge
+  - MongoDB
+  - FaunaDB
+  - Git
+  - GitHub
+  - GitHub Actions
+  - Netlify
+  - Contentful
+  - Stripe
+  - SnipCart
+  - Shopify
