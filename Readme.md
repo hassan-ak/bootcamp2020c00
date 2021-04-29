@@ -74,3 +74,16 @@
   31. What is Ethereum 2.0?
   32. What is Ewasm?
   33. What is Diem?
+
+## Introduction to English and Urdu Sections
+
+- English Section:
+  - [English Class Facebook Group](https://www.facebook.com/groups/4irug)
+  - [YouTube English Channel](https://www.youtube.com/channel/UCZUgRzBPk8CoYeHhbPL8OWg)
+- Urdu Section:
+  - [Urdu Class Facebook Group](https://www.facebook.com/groups/freelance.remote.work/)
+  - [YouTube Urdu Channel](https://www.youtube.com/channel/UCfAX44elSfBV66jU53akpBA)
+- Teaching Team:
+  - [Zeeshan Hanif](https://github.com/zeeshanhanif)
+  - [Moshin Khalid](https://github.com/MuhammadMohsin)
+  - [Zia Khan](https://github.com/ziaukhan)
