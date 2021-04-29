@@ -87,3 +87,11 @@
   - [Zeeshan Hanif](https://github.com/zeeshanhanif)
   - [Moshin Khalid](https://github.com/MuhammadMohsin)
   - [Zia Khan](https://github.com/ziaukhan)
+
+## Prerequisites: HTML, CSS, and JavaScript
+
+- [Learn HTML by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQ3BALy86tIXICkG874wAc6)
+- [Learn CSS Intro by Hira Khan](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQSWIen_zUSEBmtqzPLuRob)
+- [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
+- [Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
+- [Extra Material](https://css-tricks.com/where-do-you-learn-html-css-in-2020/)
