@@ -95,3 +95,21 @@
 - [Learn JavaScript by Zeeshan Hanif](https://www.youtube.com/playlist?list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo)
 - [Microsoft's Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 - [Extra Material](https://css-tricks.com/where-do-you-learn-html-css-in-2020/)
+
+## Classes
+
+<table>
+    <thead>
+        <tr>
+            <th>Section No.</th>
+            <th>Section Topic</th>
+            <th>Sub Topic</th>
+            <th>Class No.</th>
+            <th>Class Topic</th>
+            <th>URL's</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+
+</table>
