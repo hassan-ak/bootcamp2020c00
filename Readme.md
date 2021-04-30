@@ -110,6 +110,17 @@
         </tr>
     </thead>
     <tbody>
+          <tr>
+            <td rowspan=2>1</td>
+            <td rowspan=2>Front-End Fundamentals with React</td>
+            <td rowspan=2>Development Setup</td>
+            <td rowspan=2>1</td>
+            <td rowspan=2>Intro to Bootcamp 2020 and Development Setup</td>
+            <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c01" target="_blank">GitHub</a></td>
+        </tr>
+        <tr>
+            <td rowspan=1><a href="http://hassanalikhan-bc2020c01.surge.sh/" target="_blank">Web</a></td>
+        </tr>
     </tbody>
 
 </table>
