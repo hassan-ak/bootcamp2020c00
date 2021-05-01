@@ -99,28 +99,36 @@
 ## Classes
 
 <table>
-    <thead>
-        <tr>
-            <th>Section No.</th>
-            <th>Section Topic</th>
-            <th>Sub Topic</th>
-            <th>Class No.</th>
-            <th>Class Topic</th>
-            <th>URL's</th>
-        </tr>
-    </thead>
-    <tbody>
-          <tr>
-            <td rowspan=2>1</td>
-            <td rowspan=2>Front-End Fundamentals with React</td>
-            <td rowspan=2>Development Setup</td>
-            <td rowspan=2>1</td>
-            <td rowspan=2>Intro to Bootcamp 2020 and Development Setup</td>
-            <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c01" target="_blank">GitHub</a></td>
-        </tr>
-        <tr>
-            <td rowspan=1><a href="http://hassanalikhan-bc2020c01.surge.sh/" target="_blank">Web</a></td>
-        </tr>
-    </tbody>
-
+  <thead>
+    <tr>
+      <th>Section No.</th>
+      <th>Section Topic</th>
+      <th>Sub Topic</th>
+      <th>Class No.</th>
+      <th>Class Topic</th>
+      <th>URL's</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan=4>1</td>
+      <td rowspan=4>Front-End Fundamentals with React</td>
+      <td rowspan=2>Development Setup</td>
+      <td rowspan=2>1</td>
+      <td rowspan=2>Intro to Bootcamp 2020 and Development Setup</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c01" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c01.surge.sh/" target="_blank">Web</a></td>
+    </tr>
+    <tr>
+      <td rowspan=2>Starting React</td>
+      <td rowspan=2>2</td>
+      <td rowspan=2>Github Actions And Intro to Learning React Part 1</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c02" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c02.surge.sh/" target="_blank">Web</a></td>
+    </tr>
+  </tbody>
 </table>
