@@ -156,6 +156,13 @@
     <tr>
       <td rowspan=1><a href="http://hassanalikhan-bc2020c05.surge.sh/" target="_blank">Web</a></td>
     </tr>
-
+    <tr>
+      <td rowspan=2>6</td>
+      <td rowspan=2>Building a React Project</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c06" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c06.surge.sh/" target="_blank">Web</a></td>
+    </tr>
   </tbody>
 </table>
