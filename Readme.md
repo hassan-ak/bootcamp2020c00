@@ -183,13 +183,21 @@
       <td rowspan=1><a href="http://hassanalikhan-bc2020c08.surge.sh/" target="_blank">Web</a></td>
     </tr>
     <tr>
-      <td rowspan=2>Material UI</td>
+      <td rowspan=4>Material UI</td>
       <td rowspan=2>9</td>
       <td rowspan=2>Learning Material UI and Chart.JS</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c09" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1><a href="http://hassanalikhan-bc2020c09.surge.sh/" target="_blank">Web</a></td>
+    </tr>
+    <tr>
+      <td rowspan=2>10</td>
+      <td rowspan=2>Building COVID-19 Tracker App</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c10" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c10.surge.sh/" target="_blank">Web</a></td>
     </tr>
   </tbody>
 </table>
