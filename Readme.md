@@ -217,5 +217,14 @@
     <tr>
       <td rowspan=1><a href="http://hassanalikhan-bc2020c12.surge.sh/" target="_blank">Web</a></td>
     </tr>
+    <tr>
+      <td rowspan=2>Web Animations API with React</td>
+      <td rowspan=2>13</td>
+      <td rowspan=2>Web Animation In React</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c13" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c13.surge.sh/" target="_blank">Web</a></td>
+    </tr>
   </tbody>
 </table>
