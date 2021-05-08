@@ -111,8 +111,8 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan=20>1</td>
-      <td rowspan=20>Front-End Fundamentals with React</td>
+      <td rowspan=22>1</td>
+      <td rowspan=22>Front-End Fundamentals with React</td>
       <td rowspan=2>Development Setup</td>
       <td rowspan=2>1</td>
       <td rowspan=2>Intro to Bootcamp 2020 and Development Setup</td>
@@ -198,6 +198,15 @@
     </tr>
     <tr>
       <td rowspan=1><a href="http://hassanalikhan-bc2020c10.surge.sh/" target="_blank">Web</a></td>
+    </tr>
+    <tr>
+      <td rowspan=2>React Router v6</td>
+      <td rowspan=2>11</td>
+      <td rowspan=2>Learning Routing With React Router</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c11" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c11.surge.sh/" target="_blank">Web</a></td>
     </tr>
   </tbody>
 </table>
