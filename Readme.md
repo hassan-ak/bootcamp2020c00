@@ -111,8 +111,8 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan=22>1</td>
-      <td rowspan=22>Front-End Fundamentals with React</td>
+      <td rowspan=26>1</td>
+      <td rowspan=26>Front-End Fundamentals with React</td>
       <td rowspan=2>Development Setup</td>
       <td rowspan=2>1</td>
       <td rowspan=2>Intro to Bootcamp 2020 and Development Setup</td>
@@ -207,6 +207,15 @@
     </tr>
     <tr>
       <td rowspan=1><a href="http://hassanalikhan-bc2020c11.surge.sh/" target="_blank">Web</a></td>
+    </tr>
+    <tr>
+      <td rowspan=2>Web Animations API</td>
+      <td rowspan=2>12</td>
+      <td rowspan=2>Learning Web Animation</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c12" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c12.surge.sh/" target="_blank">Web</a></td>
     </tr>
   </tbody>
 </table>
