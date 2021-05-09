@@ -245,5 +245,13 @@
     <tr>
       <td rowspan=1><a href="http://hassanalikhan-bc2020c15.surge.sh/" target="_blank">Web</a></td>
     </tr>
+    <tr>
+      <td rowspan=2>16</td>
+      <td rowspan=2>Building A React Quiz App And TypeScript Part 2</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c16" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c16.surge.sh/" target="_blank">Web</a></td>
+    </tr>
   </tbody>
 </table>
