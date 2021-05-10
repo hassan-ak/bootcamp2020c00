@@ -253,5 +253,16 @@
     <tr>
       <td rowspan=1><a href="http://hassanalikhan-bc2020c16.surge.sh/" target="_blank">Web</a></td>
     </tr>
+    <tr>
+      <td rowspan=4>3</td>
+      <td rowspan=4>Progressive Web Apps (PWA)</td>
+      <td rowspan=2>Progressive Web Apps (PWA) and Offline Availability</td>
+      <td rowspan=2>17</td>
+      <td rowspan=2>Learning Progressive Web App</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c17" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1><a href="http://hassanalikhan-bc2020c17.surge.sh/" target="_blank">Web</a></td>
+    </tr>
   </tbody>
 </table>
