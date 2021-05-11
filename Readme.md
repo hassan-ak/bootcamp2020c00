@@ -301,7 +301,7 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c21" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1><a href="" target="_blank"></a></td>
+      <td rowspan=1>Web</td>
     </tr>
   </tbody>
 </table>
