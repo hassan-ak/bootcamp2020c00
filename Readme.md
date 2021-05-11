@@ -311,5 +311,13 @@
     <tr>
       <td rowspan=1>---</td>
     </tr>
+    <tr>
+      <td rowspan=2>23</td>
+      <td rowspan=2>Building A project With React, TypeScript And GraphQL</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c23" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
   </tbody>
 </table>
