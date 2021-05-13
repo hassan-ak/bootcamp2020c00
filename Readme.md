@@ -341,5 +341,13 @@
     <tr>
       <td rowspan=1>---</td>
     </tr>
+    <tr>
+      <td rowspan=2>26</td>
+      <td rowspan=2>Learning Redux Async Thunk</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c26" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
   </tbody>
 </table>
