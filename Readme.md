@@ -330,5 +330,16 @@
     <tr>
       <td rowspan=1>---</td>
     </tr>
+    <tr>
+      <td rowspan=4>4</td>
+      <td rowspan=4>API Mocking Servers with Mirage</td>
+      <td rowspan=4>Learn Mirage</td>
+      <td rowspan=2>25</td>
+      <td rowspan=2>Learning Redux ToolKit And Mirage Mocking Server</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c25" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
   </tbody>
 </table>
