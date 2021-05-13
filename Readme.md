@@ -331,7 +331,7 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=4>4</td>
+      <td rowspan=4>7</td>
       <td rowspan=4>API Mocking Servers with Mirage</td>
       <td rowspan=4>Learn Mirage</td>
       <td rowspan=2>25</td>
