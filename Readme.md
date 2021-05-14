@@ -362,7 +362,7 @@
     </tr>
     <tr>
       <td rowspan=2>Learn Yup</td>
-      <td rowspan=2>27</td>
+      <td rowspan=2>28</td>
       <td rowspan=2>Learning React Formik And Yup Part 2</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c28" target="_blank">GitHub</a></td>
     </tr>
