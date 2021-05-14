@@ -352,10 +352,19 @@
     <tr>
       <td rowspan=4>8</td>
       <td rowspan=4>Forms with Formik and Yup</td>
-      <td rowspan=4>Learn Formik</td>
+      <td rowspan=2>Learn Formik</td>
       <td rowspan=2>27</td>
       <td rowspan=2>Learning React Formik And Yup Part 1</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c27" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
+    <tr>
+      <td rowspan=2>Learn Yup</td>
+      <td rowspan=2>27</td>
+      <td rowspan=2>Learning React Formik And Yup Part 2</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c28" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
