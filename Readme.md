@@ -389,5 +389,16 @@
     <tr>
       <td rowspan=1>---</td>
     </tr>
+    <tr>
+      <td rowspan=2>10</td>
+      <td rowspan=2>JAMstack Serverless and Headless CMS</td>
+      <td rowspan=2>Introduction</td>
+      <td rowspan=2>31</td>
+      <td rowspan=2>Learning Modern Application Development With JAMStack Serverless</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c31" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
   </tbody>
 </table>
