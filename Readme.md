@@ -380,11 +380,11 @@
     <tr>
       <td rowspan=1>---</td>
     </tr>
-        <tr>
+    <tr>
       <td rowspan=2>Learn Bit And Design System</td>
       <td rowspan=2>30</td>
       <td rowspan=2>Learning Component Driven Development Part 2 With Bit And Design System</td>
-      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c31" target="_blank">GitHub</a></td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c30" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
