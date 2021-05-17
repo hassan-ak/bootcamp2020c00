@@ -418,10 +418,19 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=4>Learn Cntentful</td>
+      <td rowspan=2>Learn Cntentful</td>
       <td rowspan=2>34</td>
       <td rowspan=2>Learning JAMStack Serverless - Gatsby With Cntentful</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c34" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
+    <tr>
+      <td rowspan=2>Learn Netlify Serverless Functions</td>
+      <td rowspan=2>35</td>
+      <td rowspan=2>Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 1</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c35" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
