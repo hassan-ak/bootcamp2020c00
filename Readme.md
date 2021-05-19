@@ -445,7 +445,7 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=2>Learn FaunaDB with Netlify Functions</td>
+      <td rowspan=2>Learn FaunaDB with Serverless Functions and GraphQL</td>
       <td rowspan=2>37</td>
       <td rowspan=2>Learning JAMStack Serverless - Gatsby, Netlify Serverless Functions And FaunaDB</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c37" target="_blank">GitHub</a></td>
