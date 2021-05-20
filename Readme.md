@@ -390,8 +390,8 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=16>10</td>
-      <td rowspan=16>JAMstack Serverless and Headless CMS</td>
+      <td rowspan=22>10</td>
+      <td rowspan=22>JAMstack Serverless and Headless CMS</td>
       <td rowspan=2>Introduction</td>
       <td rowspan=2>31</td>
       <td rowspan=2>Learning Modern Application Development With JAMStack Serverless</td>
@@ -457,6 +457,15 @@
       <td rowspan=2>38</td>
       <td rowspan=2>Learning JAMStack Serverless - Gatsby, GraphQL, Netlify Serverless Functions And FaunaDB</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c38" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
+    <tr>
+      <td rowspan=2>Practise Projects</td>
+      <td rowspan=2>39</td>
+      <td rowspan=2>Project 01</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c39" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
