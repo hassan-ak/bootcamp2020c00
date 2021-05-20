@@ -462,7 +462,7 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=4>Practise Projects</td>
+      <td rowspan=6>Practise Projects</td>
       <td rowspan=2>39</td>
       <td rowspan=2>Project 01</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c39" target="_blank">GitHub</a></td>
@@ -470,10 +470,18 @@
     <tr>
       <td rowspan=1>---</td>
     </tr>
-        <tr>
+    <tr>
       <td rowspan=2>40</td>
       <td rowspan=2>Project 02</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c40" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
+    <tr>
+      <td rowspan=2>41</td>
+      <td rowspan=2>Project 03</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c41" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
