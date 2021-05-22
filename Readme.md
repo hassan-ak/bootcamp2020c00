@@ -487,12 +487,21 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=2>11</td>
-      <td rowspan=2>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
+      <td rowspan=4>11</td>
+      <td rowspan=4>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
       <td rowspan=2>Introduction</td>
       <td rowspan=2>42</td>
       <td rowspan=2>Intro To Ecommerce</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c42" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
+    <tr>
+      <td rowspan=2>Learn Stripe</td>
+      <td rowspan=2>43</td>
+      <td rowspan=2>Payment Gateway Using Stripe Checkout With Gatsby</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c43" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
