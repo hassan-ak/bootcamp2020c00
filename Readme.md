@@ -534,9 +534,9 @@
     </tr>
     <tr>
       <td rowspan=2>Learn Shopify</td>
-      <td rowspan=2>46</td>
+      <td rowspan=2>47</td>
       <td rowspan=2>Headless Ecommerce With Shopify And Gatsby Part 1</td>
-      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c46" target="_blank">GitHub</a></td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c47" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
