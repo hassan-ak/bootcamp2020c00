@@ -487,8 +487,8 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=8>11</td>
-      <td rowspan=8>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
+      <td rowspan=10>11</td>
+      <td rowspan=10>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
       <td rowspan=2>Introduction</td>
       <td rowspan=2>42</td>
       <td rowspan=2>Intro To Ecommerce</td>
@@ -519,6 +519,15 @@
       <td rowspan=2>45</td>
       <td rowspan=2>Building Shopping Cart using Snapcart</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c45" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
+        <tr>
+      <td rowspan=2>Learn Shopping Cart</td>
+      <td rowspan=2>46</td>
+      <td rowspan=2>USE-SHOPPING-CART Open Source Shopping Cart</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c46" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
