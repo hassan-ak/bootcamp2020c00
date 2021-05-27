@@ -487,8 +487,8 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=12>11</td>
-      <td rowspan=12>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
+      <td rowspan=14>11</td>
+      <td rowspan=14>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
       <td rowspan=2>Introduction</td>
       <td rowspan=2>42</td>
       <td rowspan=2>Intro To Ecommerce</td>
@@ -533,9 +533,17 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=2>Learn Shopify</td>
+      <td rowspan=4>Learn Shopify</td>
       <td rowspan=2>47</td>
       <td rowspan=2>Headless Ecommerce With Shopify And Gatsby Part 1</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c47" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
+        <tr>
+      <td rowspan=2>47</td>
+      <td rowspan=2>Headless Ecommerce With Shopify And Gatsby Part 2</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c47" target="_blank">GitHub</a></td>
     </tr>
     <tr>
