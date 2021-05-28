@@ -311,15 +311,12 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c23" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=2>6</td>
-      <td rowspan=2>Managing State with Redux</td>
-      <td rowspan=2>Learn Redux</td>
-      <td rowspan=2>24</td>
-      <td rowspan=2>Learning Redux</td>
+      <td rowspan=1>6</td>
+      <td rowspan=1>Managing State with Redux</td>
+      <td rowspan=1>Learn Redux</td>
+      <td rowspan=1>24</td>
+      <td rowspan=1>Learning Redux</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c24" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=4>7</td>
