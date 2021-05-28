@@ -293,31 +293,22 @@
       <td rowspan=1><a href="http://hassanalikhan-bc2020c20.surge.sh/" target="_blank">Web</a></td>
     </tr>
     <tr>
-      <td rowspan=6>5</td>
-      <td rowspan=6>Client Side GraphQL in React Apps</td>
-      <td rowspan=6>Learn GraphQL</td>
-      <td rowspan=2>21</td>
-      <td rowspan=2>Learning GraphQL Part 1 And Using Apollo Client With React</td>
+      <td rowspan=3>5</td>
+      <td rowspan=3>Client Side GraphQL in React Apps</td>
+      <td rowspan=3>Learn GraphQL</td>
+      <td rowspan=1>21</td>
+      <td rowspan=1>Learning GraphQL Part 1 And Using Apollo Client With React</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c21" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=2>22</td>
-      <td rowspan=2>Learning GraphQL Part 2</td>
+      <td rowspan=1>22</td>
+      <td rowspan=1>Learning GraphQL Part 2</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c22" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=2>23</td>
-      <td rowspan=2>Building A project With React, TypeScript And GraphQL</td>
+      <td rowspan=1>23</td>
+      <td rowspan=1>Building A project With React, TypeScript And GraphQL</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c23" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=2>6</td>
