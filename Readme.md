@@ -319,23 +319,17 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c24" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=4>7</td>
-      <td rowspan=4>API Mocking Servers with Mirage</td>
-      <td rowspan=4>Learn Mirage</td>
-      <td rowspan=2>25</td>
-      <td rowspan=2>Learning Redux ToolKit And Mirage Mocking Server</td>
+      <td rowspan=2>7</td>
+      <td rowspan=2>API Mocking Servers with Mirage</td>
+      <td rowspan=2>Learn Mirage</td>
+      <td rowspan=1>25</td>
+      <td rowspan=1>Learning Redux ToolKit And Mirage Mocking Server</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c25" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=2>26</td>
-      <td rowspan=2>Learning Redux Async Thunk</td>
+      <td rowspan=1>26</td>
+      <td rowspan=1>Learning Redux Async Thunk</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c26" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=4>8</td>
