@@ -346,24 +346,18 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c28" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=4>9</td>
-      <td rowspan=4>Component Driven Development with Storybook and Bit</td>
-      <td rowspan=2>Learn Storybook</td>
-      <td rowspan=2>29</td>
-      <td rowspan=2>Learning Component Driven Development Part 1 With Storybook</td>
+      <td rowspan=2>9</td>
+      <td rowspan=2>Component Driven Development with Storybook and Bit</td>
+      <td rowspan=1>Learn Storybook</td>
+      <td rowspan=1>29</td>
+      <td rowspan=1>Learning Component Driven Development Part 1 With Storybook</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c29" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=2>Learn Bit And Design System</td>
-      <td rowspan=2>30</td>
-      <td rowspan=2>Learning Component Driven Development Part 2 With Bit And Design System</td>
+      <td rowspan=1>Learn Bit And Design System</td>
+      <td rowspan=1>30</td>
+      <td rowspan=1>Learning Component Driven Development Part 2 With Bit And Design System</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c30" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=22>10</td>
