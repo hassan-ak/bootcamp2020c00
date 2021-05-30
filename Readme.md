@@ -457,8 +457,8 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=16>11</td>
-      <td rowspan=16>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
+      <td rowspan=18>11</td>
+      <td rowspan=18>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
       <td rowspan=2>Introduction</td>
       <td rowspan=2>42</td>
       <td rowspan=2>Intro To Ecommerce</td>
@@ -523,6 +523,15 @@
       <td rowspan=2>49</td>
       <td rowspan=2>Headless Ecommerce With Shopify And Gatsby Part 3</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c49" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>---</td>
+    </tr>
+    <tr>
+      <td rowspan=2>ILearn Payment Gateways</td>
+      <td rowspan=2>50</td>
+      <td rowspan=2>Payment Gateway Using 2Checkout and PayFast</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c50" target="_blank">GitHub</a></td>
     </tr>
     <tr>
       <td rowspan=1>---</td>
