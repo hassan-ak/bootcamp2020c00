@@ -360,32 +360,23 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c30" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=22>10</td>
-      <td rowspan=22>JAMstack Serverless and Headless CMS</td>
-      <td rowspan=2>Introduction</td>
-      <td rowspan=2>31</td>
-      <td rowspan=2>Learning Modern Application Development With JAMStack Serverless</td>
+      <td rowspan=19>10</td>
+      <td rowspan=19>JAMstack Serverless and Headless CMS</td>
+      <td rowspan=1>Introduction</td>
+      <td rowspan=1>31</td>
+      <td rowspan=1>Learning Modern Application Development With JAMStack Serverless</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c31" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=4>Learn Gatsby</td>
-      <td rowspan=2>32</td>
-      <td rowspan=2>Learning JAMStack Serverless - Gatsby Part 1</td>
+      <td rowspan=2>Learn Gatsby</td>
+      <td rowspan=1>32</td>
+      <td rowspan=1>Learning JAMStack Serverless - Gatsby Part 1</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c32" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=2>33</td>
-      <td rowspan=2>Learning JAMStack Serverless - Gatsby Part 2</td>
+      <td rowspan=1>33</td>
+      <td rowspan=1>Learning JAMStack Serverless - Gatsby Part 2</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c33" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=2>Learn Cntentful</td>
