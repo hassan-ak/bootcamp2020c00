@@ -360,8 +360,8 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c30" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=19>10</td>
-      <td rowspan=19>JAMstack Serverless and Headless CMS</td>
+      <td rowspan=18>10</td>
+      <td rowspan=18>JAMstack Serverless and Headless CMS</td>
       <td rowspan=1>Introduction</td>
       <td rowspan=1>31</td>
       <td rowspan=1>Learning Modern Application Development With JAMStack Serverless</td>
@@ -379,13 +379,10 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c33" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=2>Learn Cntentful</td>
-      <td rowspan=2>34</td>
-      <td rowspan=2>Learning JAMStack Serverless - Gatsby With Cntentful</td>
+      <td rowspan=1>Learn Cntentful</td>
+      <td rowspan=1>34</td>
+      <td rowspan=1>Learning JAMStack Serverless - Gatsby With Cntentful</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c34" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=2>Learn Netlify Serverless Functions</td>
