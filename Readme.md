@@ -360,8 +360,8 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c30" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=17>10</td>
-      <td rowspan=17>JAMstack Serverless and Headless CMS</td>
+      <td rowspan=16>10</td>
+      <td rowspan=16>JAMstack Serverless and Headless CMS</td>
       <td rowspan=1>Introduction</td>
       <td rowspan=1>31</td>
       <td rowspan=1>Learning Modern Application Development With JAMStack Serverless</td>
@@ -391,13 +391,10 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c35" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=2>Intro to FaunaDB NoSQL database</td>
-      <td rowspan=2>36</td>
-      <td rowspan=2>Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database</td>
+      <td rowspan=1>Intro to FaunaDB NoSQL database</td>
+      <td rowspan=1>36</td>
+      <td rowspan=1>Learning JAMStack Serverless - Gatsby With Netlify Serverless Functions Part 2 And Intro to FaunaDB NoSQL database</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c36" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=4>Learn FaunaDB with Serverless Functions and GraphQL</td>
