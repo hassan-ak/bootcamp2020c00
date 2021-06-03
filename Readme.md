@@ -360,8 +360,8 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c30" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=14>10</td>
-      <td rowspan=14>JAMstack Serverless and Headless CMS</td>
+      <td rowspan=11>10</td>
+      <td rowspan=11>JAMstack Serverless and Headless CMS</td>
       <td rowspan=1>Introduction</td>
       <td rowspan=1>31</td>
       <td rowspan=1>Learning Modern Application Development With JAMStack Serverless</td>
@@ -408,29 +408,20 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c38" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=6>Practise Projects</td>
-      <td rowspan=2>39</td>
-      <td rowspan=2>Project 01</td>
+      <td rowspan=3>Practise Projects</td>
+      <td rowspan=1>39</td>
+      <td rowspan=1>Project 01</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c39" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=2>40</td>
-      <td rowspan=2>Project 02</td>
+      <td rowspan=1>40</td>
+      <td rowspan=1>Project 02</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c40" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=2>41</td>
-      <td rowspan=2>Project 03</td>
+      <td rowspan=1>41</td>
+      <td rowspan=1>Project 03</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c41" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=18>11</td>
