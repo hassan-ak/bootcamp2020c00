@@ -492,7 +492,7 @@
       <td rowspan=1>---</td>
     </tr>
     <tr>
-      <td rowspan=2>ILearn Payment Gateways</td>
+      <td rowspan=2>Learn Payment Gateways</td>
       <td rowspan=2>50</td>
       <td rowspan=2>Payment Gateway Using 2Checkout and PayFast</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c50" target="_blank">GitHub</a></td>
