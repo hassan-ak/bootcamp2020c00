@@ -424,29 +424,23 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c41" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=17>11</td>
-      <td rowspan=17>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
+      <td rowspan=15>11</td>
+      <td rowspan=15>Jamstack Ecommerce: Stripe, Shopify, and Snipcart</td>
       <td rowspan=1>Introduction</td>
       <td rowspan=1>42</td>
       <td rowspan=1>Intro To Ecommerce</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c42" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=4>Learn Stripe</td>
-      <td rowspan=2>43</td>
-      <td rowspan=2>Payment Gateway Using Stripe Checkout With Gatsby</td>
+      <td rowspan=2>Learn Stripe</td>
+      <td rowspan=1>43</td>
+      <td rowspan=1>Payment Gateway Using Stripe Checkout With Gatsby</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c43" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>---</td>
-    </tr>
-    <tr>
-      <td rowspan=2>44</td>
-      <td rowspan=2>Payment Gateway Using Stripe API With Gatsby</td>
+      <td rowspan=1>44</td>
+      <td rowspan=1>Payment Gateway Using Stripe API With Gatsby</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c44" target="_blank">GitHub</a></td>
-    </tr>
-    <tr>
-      <td rowspan=1>---</td>
     </tr>
     <tr>
       <td rowspan=2>Learn SnapCart</td>
