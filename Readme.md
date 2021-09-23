@@ -231,7 +231,7 @@
       <td rowspan=6>Programming with TypeScript</td>
       <td rowspan=6>Learn TypeScript</td>
       <td rowspan=2>14</td>
-      <td rowspan=2>Learning TypeScript</td>
+      <td rowspan=2>Learning TypeScript 01</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c14" target="_blank">GitHub</a></td>
     </tr>
     <tr>
