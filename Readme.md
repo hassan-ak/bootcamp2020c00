@@ -247,7 +247,7 @@
     </tr>
     <tr>
       <td rowspan=2>16</td>
-      <td rowspan=2>Building A React Quiz App And TypeScript Part 2</td>
+      <td rowspan=2>Building A React Quiz App with TypeScript</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c16" target="_blank">GitHub</a></td>
     </tr>
     <tr>
