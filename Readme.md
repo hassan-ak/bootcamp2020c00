@@ -476,13 +476,19 @@
       <td rowspan=1>Payment Gateway Using 2Checkout and PayFast</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c50" target="_blank">GitHub</a></td>
     </tr>
-        <tr>
-      <td rowspan=1>12</td>
-      <td rowspan=1>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
+    <tr>
+      <td rowspan=2>12</td>
+      <td rowspan=2>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
       <td rowspan=1>Intro to AWS Technologies With Cloud Development Kit (CDK)</td>
       <td rowspan=1>51</td>
       <td rowspan=1>Overview</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c51" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>Project Setup And Stack Deployment With S3 Bucket</td>
+      <td rowspan=1>52</td>
+      <td rowspan=1>Hello CDK</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c52" target="_blank">GitHub</a></td>
     </tr>
   </tbody>
 </table>
