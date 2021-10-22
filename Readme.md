@@ -497,10 +497,10 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c53" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>Project Setup And Stack Deployment With S3 Bucket</td>
-      <td rowspan=1>52</td>
-      <td rowspan=1>Hello CDK</td>
-      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c52" target="_blank">GitHub</a></td>
+      <td rowspan=1>Integrate AppSync with Lambda as a Datasource</td>
+      <td rowspan=1>54</td>
+      <td rowspan=1>AppSync lambda as datasource</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c54" target="_blank">GitHub</a></td>
     </tr>
   </tbody>
 </table>
