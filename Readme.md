@@ -477,8 +477,8 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c50" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=4>12</td>
-      <td rowspan=4>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
+      <td rowspan=5>12</td>
+      <td rowspan=5>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
       <td rowspan=1>Intro to AWS Technologies With Cloud Development Kit (CDK)</td>
       <td rowspan=1>51</td>
       <td rowspan=1>Overview</td>
@@ -501,6 +501,12 @@
       <td rowspan=1>54</td>
       <td rowspan=1>AppSync lambda as datasource</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c54" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS AppSync And AWS DynamoDB</td>
+      <td rowspan=1>55</td>
+      <td rowspan=1>AppSync, DynamoDB and Apollo Client</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c55" target="_blank">GitHub</a></td>
     </tr>
   </tbody>
 </table>
