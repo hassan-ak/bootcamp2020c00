@@ -479,15 +479,15 @@
     <tr>
       <td rowspan=5>12</td>
       <td rowspan=5>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
-      <td rowspan=1>Intro to AWS Technologies With Cloud Development Kit (CDK)</td>
+      <td rowspan=1>AWS Cloud and Serverless Technologies with Cloud Development Kit (CDK)</td>
       <td rowspan=1>51</td>
-      <td rowspan=1>Overview</td>
+      <td rowspan=1>Intro to AWS Technologies With Cloud Development Kit (CDK)</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c51" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>Project Setup And Stack Deployment With S3 Bucket</td>
+      <td rowspan=1>Introduction to AWS CDK</td>
       <td rowspan=1>52</td>
-      <td rowspan=1>Hello CDK</td>
+      <td rowspan=1>Project Setup And Stack Deployment With S3 Bucket</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c52" target="_blank">GitHub</a></td>
     </tr>
     <tr>
