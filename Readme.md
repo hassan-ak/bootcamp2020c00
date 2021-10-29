@@ -477,8 +477,8 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c50" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=7>12</td>
-      <td rowspan=7>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
+      <td rowspan=9>12</td>
+      <td rowspan=9>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
       <td rowspan=1>AWS Cloud and Serverless Technologies with Cloud Development Kit (CDK)</td>
       <td rowspan=1>51</td>
       <td rowspan=1>Intro to AWS Technologies With Cloud Development Kit (CDK)</td>
@@ -516,6 +516,17 @@
       <td rowspan=1>57</td>
       <td rowspan=1>AWS AppSync With DynamoDB As A Datasource</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c57" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=2>AWS Cognito</td>
+      <td rowspan=1>58</td>
+      <td rowspan=1>AWS Cognito Part 1</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c58" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>59</td>
+      <td rowspan=1>AWS Cognito Part 2</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c59" target="_blank">GitHub</a></td>
     </tr>
   </tbody>
 </table>
