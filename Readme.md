@@ -477,8 +477,8 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c50" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=9>12</td>
-      <td rowspan=9>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
+      <td rowspan=12>12</td>
+      <td rowspan=12>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
       <td rowspan=1>AWS Cloud and Serverless Technologies with Cloud Development Kit (CDK)</td>
       <td rowspan=1>51</td>
       <td rowspan=1>Intro to AWS Technologies With Cloud Development Kit (CDK)</td>
@@ -527,6 +527,22 @@
       <td rowspan=1>59</td>
       <td rowspan=1>AWS Cognito Part 2</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c59" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=3>AWS IAM policies, secret manager and CI/CD Pipelines</td>
+      <td rowspan=1>60</td>
+      <td rowspan=1>AWS IAM Policies And Secret Manager Part 1</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c60" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>61</td>
+      <td rowspan=1>AWS Secret Manager Part 2</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c61" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>62</td>
+      <td rowspan=1>AWS CI/CD Pipeline</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c62" target="_blank">GitHub</a></td>
     </tr>
   </tbody>
 </table>
