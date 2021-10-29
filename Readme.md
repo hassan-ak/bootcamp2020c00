@@ -491,9 +491,9 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c52" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>Deploying Serverless Lambda Function And Website Deployment With Cloudfront</td>
+      <td rowspan=1>Deploying Lambda and Websites with CDK</td>
       <td rowspan=1>53</td>
-      <td rowspan=1>Hello Lambda & Hello Website</td>
+      <td rowspan=1>Deploying Serverless Lambda Function And Website Deployment With Cloudfront</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c53" target="_blank">GitHub</a></td>
     </tr>
     <tr>
