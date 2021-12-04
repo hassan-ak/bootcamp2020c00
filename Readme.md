@@ -477,8 +477,8 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c50" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=12>12</td>
-      <td rowspan=12>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
+      <td rowspan=15>12</td>
+      <td rowspan=15>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
       <td rowspan=1>AWS Cloud and Serverless Technologies with Cloud Development Kit (CDK)</td>
       <td rowspan=1>51</td>
       <td rowspan=1>Intro to AWS Technologies With Cloud Development Kit (CDK)</td>
@@ -543,6 +543,23 @@
       <td rowspan=1>62</td>
       <td rowspan=1>AWS CI/CD Pipeline</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c62" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS EventBridge</td>
+      <td rowspan=1>63</td>
+      <td rowspan=1>EventBridge</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c63" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=2>AWS Simple Services</td>
+      <td rowspan=1>64</td>
+      <td rowspan=1>Email Service</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c64" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>65</td>
+      <td rowspan=1>Notification and Queue Service</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c65" target="_blank">GitHub</a></td>
     </tr>
   </tbody>
 </table>
