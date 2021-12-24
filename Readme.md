@@ -477,8 +477,8 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c50" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=15>12</td>
-      <td rowspan=15>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
+      <td rowspan=31>12</td>
+      <td rowspan=31>Full Stack Serverless with AWS Cloud Development Kit - CDK</td>
       <td rowspan=1>AWS Cloud and Serverless Technologies with Cloud Development Kit (CDK)</td>
       <td rowspan=1>51</td>
       <td rowspan=1>Intro to AWS Technologies With Cloud Development Kit (CDK)</td>
@@ -560,6 +560,99 @@
       <td rowspan=1>65</td>
       <td rowspan=1>Notification and Queue Service</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c65" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS Pinpoint</td>
+      <td rowspan=1>66</td>
+      <td rowspan=1>Pinpoint</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c66" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS Step Functions</td>
+      <td rowspan=1>67</td>
+      <td rowspan=1>Step Functions</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c67" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS Cloud Watch</td>
+      <td rowspan=1>68</td>
+      <td rowspan=1>Cloud Watch</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c68" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS Timestream DB and Visualization with Grafana</td>
+      <td rowspan=1>69</td>
+      <td rowspan=1>Timestream DB and Visualization with Grafana</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c69" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=3>AWS X-Ray, Lambda Layers, Lambda Edge and Lambda Destination</td>
+      <td rowspan=1>70</td>
+      <td rowspan=1>AWS X-Ray</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c70" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>71</td>
+      <td rowspan=1>AWS Lambda Layers</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c71" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>72</td>
+      <td rowspan=1>AWS Lambda Edge and Lambda Destination</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c72" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>Containers and Container Images</td>
+      <td rowspan=1>73</td>
+      <td rowspan=1>Docker Containers and AWS Lambda Container Image</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c73" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS DynamoDB Streams and Constructs</td>
+      <td rowspan=1>74</td>
+      <td rowspan=1>DynamoDB Streams and Constructs as Cloud components</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c74" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>CDK Multiple Stacks and Route 53</td>
+      <td rowspan=1>75</td>
+      <td rowspan=1>Multiple Stacks and Route 53</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c75" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS Elastic File Storage and Testing CDK</td>
+      <td rowspan=1>76</td>
+      <td rowspan=1>Elastic File Storage and Testing CDK</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c76" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>Serverless Event-Driven Architecture</td>
+      <td rowspan=1>77</td>
+      <td rowspan=1>Serverless Event-Driven Architecture</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c77" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>CDK Design Patterns</td>
+      <td rowspan=1>78</td>
+      <td rowspan=1>Design Patterns</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c78" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>AWS Aurora Serverless and Data API</td>
+      <td rowspan=1>79</td>
+      <td rowspan=1>AWS Aurora Serverless and Data API</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c79" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=2>Neptune</td>
+      <td rowspan=1>80</td>
+      <td rowspan=1>AWS VPC And AWS Neptune Graph Database</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c80" target="_blank">GitHub</a></td>
+    </tr>
+    <tr>
+      <td rowspan=1>81</td>
+      <td rowspan=1>Gremlin Graph Traversal Language</td>
+      <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c81" target="_blank">GitHub</a></td>
     </tr>
   </tbody>
 </table>
