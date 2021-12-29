@@ -562,21 +562,19 @@
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c65" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>AWS Pinpoint</td>
+      <td rowspan=3>AWS Pinpoint, Step Functions and Cloudwatch</td>
       <td rowspan=1>66</td>
-      <td rowspan=1>Pinpoint</td>
+      <td rowspan=1>AWS Pinpoint</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c66" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>AWS Step Functions</td>
       <td rowspan=1>67</td>
-      <td rowspan=1>Step Functions</td>
+      <td rowspan=1>AWS Step Functions</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c67" target="_blank">GitHub</a></td>
     </tr>
     <tr>
-      <td rowspan=1>AWS Cloud Watch</td>
       <td rowspan=1>68</td>
-      <td rowspan=1>Cloud Watch</td>
+      <td rowspan=1>AWS Cloud Watch</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c68" target="_blank">GitHub</a></td>
     </tr>
     <tr>
