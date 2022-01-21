@@ -265,9 +265,9 @@
       <td rowspan=1><a href="http://hassanalikhan-bc2020c17.surge.sh/" target="_blank">Web</a></td>
     </tr>
     <tr>
-      <td rowspan=2>Progressive Web App (PWA) and Service Push Notification</td>
+      <td rowspan=2>PWA and Service Push Notification</td>
       <td rowspan=2>18</td>
-      <td rowspan=2>Progressive Web App And Push Notification</td>
+      <td rowspan=2>PWA and Push Notification</td>
       <td rowspan=1><a href="https://github.com/hassan-ak/bootcamp2020c18" target="_blank">GitHub</a></td>
     </tr>
     <tr>
